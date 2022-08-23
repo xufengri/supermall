@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
+    "shu-c-amap": "^1.0.17",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
